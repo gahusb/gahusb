@@ -17,18 +17,23 @@ You can click the Preview link to take a look at your changes.
 ## Personal Data
 ---
 > 1992.12.23 대한민국,안양시,만안구 출생
+
 > 연락처: bgg8988@gmail.com
+
 > Github : [https://github.com/gahusb](https://github.com/gahusb)
 
 ## Education
 ---
 > Mar.2011 ~ Feb.2019 한국항공대학교
+
 > 소프트웨어 학과 (Software major)
 
 > Jul.2019 ~ Nov.2019 SSAFY (Samsung SW Academy For Youth)
+
 > Web반 (Java, Spring, JavaScript, VueJS)
 
 ## Work
 ---
 > Linux System Software Developer (2020.01 ~ )
-> I want to switch my job to Web Front-end developer
+
+> I want to switch my job to Web Front-end developer. So I'm studying.
