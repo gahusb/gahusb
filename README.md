@@ -9,13 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ***
-<center>
-<span style="font-size:170%;font-weight:bold"> 박재오
-</span>
-</center>
-<center>MAJOR : Software engineering</center>
-<center>Korea Aerospace University</center>
-<center>19, Dosin-ro 64-gil, Yeongdeungpo-gu, Seoul, Republic of Korea</center>
+- I'm Jaeoh Park
+- MAJOR : Software engineering
+- Korea Aerospace University</center>
+- 19, Dosin-ro 64-gil, Yeongdeungpo-gu, Seoul, Republic of Korea
 
 ## Personal Data
 ---
@@ -30,3 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 > Jul.2019 ~ Nov.2019 SSAFY (Samsung SW Academy For Youth)
 > Web반 (Java, Spring, JavaScript, VueJS)
+
+## Work
+---
+> Linux System Software Developer (2020.01 ~ )
+> I want to switch my job to Web Front-end developer
