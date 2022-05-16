@@ -4,10 +4,19 @@
 - University : Korea Aerospace University
 - 19, Dosin-ro 64-gil, Yeongdeungpo-gu, Seoul, Republic of Korea
 
-## Personal Data
----
-> 1992.12.23 대한민국,안양시,만안구 출생 </br>
-> Email : bgg8988@gmail.com </br>
+**👆 This command line tool can be found at [npx jaeoh](https://github.com/gahusb/)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const jaeoh = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "Javascript", "C", "C++"],
+    placeOfBirth: Anyang-si, Republic of Korea,
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ## 📫 Social
 [![GitHub](icons/github.png)](https://github.com/gahusb)
