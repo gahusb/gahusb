@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&text=Hello%World!&animation=scaleIn)
 
-👋 Hi, I'm JaeOh Park,
+👋 Hi, I'm JaeOh Park, Software Engineer at LDCC
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  👆 
 
@@ -42,12 +42,12 @@ const jaeoh = {
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-## Work
+## 🏢 Work
 > JAN,2020 ~ Lotte data communication company </br>
 > Linux System Software Developer </br>
 > AFC MCU develop </br>
 
-## 🌱 Currently learning 
+## 🌱 Currently Studying
  ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
  ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
