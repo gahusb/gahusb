@@ -8,9 +8,7 @@
 const jaeoh = {
     pronouns: "He" | "Him",
     code: ["Java", "Python", "Javascript", "C", "C++"],
-    liveIn: Yeongdeungpo-gu, Seoul, Republic of Korea,
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    liveIn: Yeongdeungpo-gu, Seoul, Republic of Korea
 };
 ```
 
