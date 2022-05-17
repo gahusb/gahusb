@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&text=Hello%World!&animation=scaleIn)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgahusb%2Fgahusb&count_bg=%239D9E9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 👋 Hi, I'm JaeOh Park, Software Engineer at LDCC
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  👆 
@@ -52,12 +54,13 @@ const jaeoh = {
  ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 
-## 🎐 My GitView Count
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgahusb%2Fgahusb&count_bg=%239D9E9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-## ⚡ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gahusb&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahusb&layout=compact&count_private=true&theme=gruvbox" />
+<p>
+  <a href="https://github.com/gahusb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahusb&layout=compact&show_icons=true&show_owner=false&hide_title=false&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/gahusb">
+    <img src="https://github-readme-stats.vercel.app/api?username=gahusb&hide_title=false&show_icons=true&include_all_commits=false&theme=gruvbox" />
+  </a>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
