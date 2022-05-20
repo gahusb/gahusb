@@ -9,7 +9,7 @@
 ```javascript
 const jaeoh = {
     pronouns: "He" | "Him",
-    code: ["Java", "Python", "Javascript", "C", "C++"],
+    code: ["Java", "C", "C++", "Javascript", "Python"],
     liveIn: Yeongdeungpo-gu, Seoul, Republic of Korea
 };
 ```
