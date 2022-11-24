@@ -21,33 +21,23 @@ const jaeoh = {
 
 ## 🚀💻 Technologies & Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 ## 🏢 Work
 > JAN,2020 ~ Lotte data communication company </br>
@@ -56,7 +46,8 @@ const jaeoh = {
 
 ## 🌱 Currently Studying
  ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+ ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+ ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ## 🔧 My Github stats
